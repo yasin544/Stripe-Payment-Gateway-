@@ -4,6 +4,7 @@ Download and install Composer from the official website: getcomposer.org.
 Navigate to Your Plugin Directory:
 
 Open a terminal or command prompt.
+
 Go to the directory where your plugin is located:
 bash
 Copy
